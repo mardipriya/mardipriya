@@ -54,6 +54,6 @@ Some exciting projects I’m working on (or have completed):
 
 ## 🌐 Let’s Connect!
 
-- **LinkedIn:** [Swathi Priya Mardi](https://www.linkedin.com/in/swathi-priya-mardi)
+- **LinkedIn:** [Swathi Priya Mardi](https://www.linkedin.com/in/swathi-priya-mardi-604135213/)
 - **Email:** mardiswati@gmail.com
 - **Fun Fact:** I’m always looking for new challenges, whether it's scaling infrastructure or building ML models to solve complex problems. If you're a tech enthusiast too, feel free to connect or collaborate!
