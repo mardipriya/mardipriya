@@ -1,10 +1,10 @@
-<!-- README HTML for Swathi Priya Mardi -->
+<!-- Simplified README HTML for Swathi Priya Mardi -->
 <div style="font-family: sans-serif; line-height: 1.6;">
   <h1 align="center">👋 Hello, I’m Swathi Priya Mardi</h1>
 
   <p align="center">
     🎓 <strong>M.S. in Computer Science</strong>, University of Central Florida (GPA: 3.9/4.0)<br>
-    💼 <strong>Software Engineer at Comcast India Engineering Center LLP</strong> passionate about building reliable, high‑performance software<br>
+    💼 <strong>Software Engineer at Comcast India Engineering Center LLP</strong> passionate about building reliable, high-performance software<br>
     ☁️ AWS Certified Solutions Architect | Python | Kubernetes | Terraform | React
   </p>
 
@@ -31,8 +31,8 @@
 
   <h2>🚀 Key Projects</h2>
   <ul>
-    <li><strong>Network Analysis of E‑commerce Products</strong><br>
-      Applied HAC clustering and Bianconi‑Barabási modeling to reveal buying patterns and community structures.
+    <li><strong>Network Analysis of E-commerce Products</strong><br>
+      Applied HAC clustering and Bianconi-Barabási modeling to reveal buying patterns and community structures.
     </li>
     <li><strong>Resume Parser (SpaCy)</strong><br>
       Engineered an NLP pipeline to accurately extract and categorize candidate data at scale.
@@ -40,20 +40,10 @@
     <li><strong>Paraphrase Identification</strong><br>
       Fine‑tuned BERT, SqueezeBERT, and DistilBERT models—achieved &gt;92% accuracy on semantic similarity tasks.
     </li>
-    <li><strong>Gesture & Voice‑Controlled Video Player</strong><br>
-      Developed an accessible, touchless media control app with OpenCV and NLP for real‑time commands.
+    <li><strong>Gesture & Voice-Controlled Video Player</strong><br>
+      Developed an accessible, touchless media control app with OpenCV and NLP for real-time commands.
     </li>
   </ul>
-
-  <hr>
-
-  <h2 align="center">## Screenshots</h2>
-  <hr>
-
-  <h2>📈 GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=swathi-priya&show_icons=true&theme=dracula" alt="Swathi's GitHub Stats" width="400" />
-  </p>
 
   <hr>
 
