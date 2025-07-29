@@ -48,13 +48,6 @@
   <hr>
 
   <h2 align="center">## Screenshots</h2>
-  <p align="center">
-    <img src="https://github.com/user-attachments/assets/182edbf3-e79d-4159-86ac-ae0bb4d38974" alt="screenshot 1" width="300" />
-    <img src="https://github.com/user-attachments/assets/6fa542e5-7663-405b-b352-916cabbc9898" alt="screenshot 2" width="300" />
-    <img src="https://github.com/user-attachments/assets/b33b8b36-34d9-4344-b1a3-d23d8f97103b" alt="screenshot 3" width="300" />
-    <img src="https://github.com/user-attachments/assets/7546b400-2ea7-42a4-9294-2deae5e5f5bd" alt="screenshot 4" width="300" />
-  </p>
-
   <hr>
 
   <h2>📈 GitHub Stats</h2>
