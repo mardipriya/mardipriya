@@ -49,7 +49,7 @@
 
   <h2>📬 Let’s Connect</h2>
   <p align="center">
-    <a href="https://linkedin.com/in/swathipriyamardi">LinkedIn</a> • 
+    <a href="www.linkedin.com/in/swathi-priya-mardi-604135213">LinkedIn</a> • 
     <a href="https://github.com/swathi-priya">GitHub</a> • 
     <a href="mailto:your.email@example.com">Email</a>
   </p>
