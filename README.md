@@ -1,9 +1,8 @@
-```html
 <!-- README HTML for Swathi Priya Mardi -->
 <div style="font-family: sans-serif; line-height: 1.6;">
-  <h1>👋 Hello, I’m Swathi Priya Mardi</h1>
+  <h1 align="center">👋 Hello, I’m Swathi Priya Mardi</h1>
 
-  <p>
+  <p align="center">
     🎓 <strong>M.S. in Computer Science</strong>, University of Central Florida (GPA: 3.9/4.0)<br>
     💼 <strong>Software Engineer at Comcast India Engineering Center LLP</strong> passionate about building reliable, high‑performance software<br>
     ☁️ AWS Certified Solutions Architect | Python | Kubernetes | Terraform | React
@@ -48,18 +47,27 @@
 
   <hr>
 
+  <h2 align="center">## Screenshots</h2>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/182edbf3-e79d-4159-86ac-ae0bb4d38974" alt="screenshot 1" width="300" />
+    <img src="https://github.com/user-attachments/assets/6fa542e5-7663-405b-b352-916cabbc9898" alt="screenshot 2" width="300" />
+    <img src="https://github.com/user-attachments/assets/b33b8b36-34d9-4344-b1a3-d23d8f97103b" alt="screenshot 3" width="300" />
+    <img src="https://github.com/user-attachments/assets/7546b400-2ea7-42a4-9294-2deae5e5f5bd" alt="screenshot 4" width="300" />
+  </p>
+
+  <hr>
+
   <h2>📈 GitHub Stats</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=swathi-priya&show_icons=true&theme=dracula" alt="Swathi's GitHub Stats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=swathi-priya&show_icons=true&theme=dracula" alt="Swathi's GitHub Stats" width="400" />
   </p>
 
   <hr>
 
   <h2>📬 Let’s Connect</h2>
-  <ul>
-    <li><a href="https://linkedin.com/in/swathipriyamardi">LinkedIn</a></li>
-    <li><a href="https://github.com/swathi-priya">GitHub</a></li>
-    <li><a href="mailto:mardiswati@gmail.com">Email</a></li>
-  </ul>
+  <p align="center">
+    <a href="https://linkedin.com/in/swathipriyamardi">LinkedIn</a> • 
+    <a href="https://github.com/swathi-priya">GitHub</a> • 
+    <a href="mailto:your.email@example.com">Email</a>
+  </p>
 </div>
-```
