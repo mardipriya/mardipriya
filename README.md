@@ -31,4 +31,10 @@ I enjoy working on backend systems, cloud architecture, and distributed systems 
 
 <h2>📫 Let’s Connect</h2>
 <ul>
-  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/swathi-priya
+  <li><b>LinkedIn:</b> <a href="https://linkedin.com/in/swathi-priya-mardi-604135213">linkedin.com/in/swathi-priya-mardi-604135213</a></li>
+  <li><b>Email:</b> <a href="mailto:mardiswati@gmail.com">mardiswati@gmail.com</a></li>
+</ul>
+
+<blockquote>
+<p><i>"I love building meaningful software, solving tough problems, and learning something new every day."</i></p>
+</blockquote>
